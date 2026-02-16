@@ -1,0 +1,10 @@
+{
+  
+  "站名": "大米星球",
+  "主页url": "https://www.d62621.vip/index/home.html",
+  
+  "分类": "电影&电视剧&动漫",
+  "分类值": "20&21&22",
+  
+  "分类url": "https://www.d62621.vip/vodshow/{cateId}--------{catePg}---.html"
+}
