@@ -10,6 +10,7 @@
         {"key": "555影视","name": "555｜影视","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/555影视.json"},
          {"key": "奇优影院","name": "奇优影院","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/奇优影院.json"},
  {"key": "骚火电影","name": "骚火电影","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/骚火电影.json"},
+ {"key":"柚子资源","name":"🍊柚子资源","type":0,"api":"https://api.yzzy-api.com/inc/api.php","searchable":1,"quickSearch":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","台湾剧","韩国剧","欧美剧","香港剧","泰国剧","日本剧","福利","记录片","动画片","海外剧","倫理片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","搞笑","音乐","影视","汽车","短剧大全","预告片","预告片","体育"]},
 
 {"key": "360影视","name": "💫360影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/360影视.js"},
   {"key": "SPQQ","name": "🐧企鹅[JS]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/tyjw.js"},
