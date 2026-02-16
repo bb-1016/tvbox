@@ -5,7 +5,8 @@
  {"key": "NY影院","name": "NY影院","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,      "filterable": 1,"ext": "./js/NY影院.js"},
  {"key": "追剧迷","name": "追剧迷","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,      "filterable": 1,"ext": "./js/追剧迷.js"},
  {"key": "酷播","name": "酷播","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,      "filterable": 1,"ext": "./js/酷播.js"},
- 
+ {"key": "魔力高清","name": "魔力高清","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,      "filterable": 1,"ext": "./js/魔力高清.js"},
+    
  {"key": "永乐影视","name": "永乐｜影视","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/永乐影视.json"},
         {"key": "大米星球","name": "大米星球","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/大米.json"},
          {"key": "奇优影院","name": "奇优影院","type": 3,"api": "csp_XBPQ","ext": "./XBPQ/奇优影院.json"},
