@@ -1,3 +1,6 @@
+{"spider": "./jar/XBPQ.jar",
+  "sites": [
+  {"key": "豆瓣热播","name": "豆瓣热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
  {"key": "金牌影院","name": "金牌影院","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/金牌影院.js"},
  {"key": "NY影院","name": "NY影院","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/NY影院.js"},
  {"key": "追剧迷","name": "追剧迷","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/追剧迷.js"},
