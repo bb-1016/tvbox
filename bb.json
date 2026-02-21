@@ -18,7 +18,7 @@
         {"key": "csp_Gz360","name": "🍉┃瓜子┃影视","type": 3,"api": "csp_Gz360","playerType": 2},
         {"key": "csp_LiteApple","name": "🍎┃苹果┃影视","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key": "厂长","name": "🏭┃厂长┃影视","type": 3,"playerType": "2","api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.czzymovie.com/"},
-// {"key": "金牌影院","name": "金牌影院","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,      "filterable": 1,"ext": "./js/金牌影院.js"},
+ {"key": "金牌影院","name": "金牌影院","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,      "filterable": 1,"ext": "./js/金牌影院.js"},
  {"key": "NY影院","name": "NY影院","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,      "filterable": 1,"ext": "./js/NY影院.js"},
  {"key": "追剧迷","name": "追剧迷","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,      "filterable": 1,"ext": "./js/追剧迷.js"},
  {"key": "酷播","name": "酷播","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,      "filterable": 1,"ext": "./js/酷播.js"},
